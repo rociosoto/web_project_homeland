@@ -1,6 +1,6 @@
 # Tripleten web_project_homeland
 
-https://github.com/rociosoto/web_project_homeland
+https://rociosoto.github.io/web_project_homeland
 
 ## Proyecto 5: Galeria de arte Triple Ten
 
